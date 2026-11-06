@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) · MIT
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 # Promptfoo: LLM evals & red teaming
 
 <p align="center">
